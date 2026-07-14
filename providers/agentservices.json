@@ -1,0 +1,17 @@
+{
+  "name": "AgentServices",
+  "slug": "agentservices",
+  "category": "specialized",
+  "subcategory": "Paid data APIs for AI agents (x402)",
+  "description": "Paid data APIs for AI agents with x402 micropayments. Crypto market data, DeFi yields, on-chain analytics, traditional finance, market intelligence, and AI inference. MCP server with 37 tools.",
+  "website": "https://agentservices.to",
+  "docs": "https://agentservices.to/docs",
+  "pricing_model": "paid",
+  "supported_chains": ["EVM"],
+  "api_types": ["rest", "mcp"],
+  "self_hostable": false,
+  "official_contact": "https://x.com/vbkotecha",
+  "added_date": "2026-07-14",
+  "last_verified": "2026-07-14",
+  "source_attestation": "https://agentservices.to/openapi.json"
+}
